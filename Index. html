@@ -1,0 +1,25 @@
+<! DOCTYPE.html>
+<html> 
+  <head> 
+    <title>my self</title>
+  </head>
+  <body>
+    <center>
+      <h1>page about me </h1>
+    </center>
+    <h3>introduction </h3>
+    <p>i am manusha</p>
+    <p>i am studying in Bsc computer science </p>
+    <img src="img .jpg"height="300px"width="300px">
+    <h3>study </h3>
+    <p>develop as a person </p>
+    <p>make lifelong friends </p>
+    <img src="college.jpg">
+    <h3>future goal </h3>
+    <p>higher studies</p>
+    <p>good job</p>
+    <img src="aim.jpg">
+    <input type="button"value="like it">
+    <input type="button"value="not now">
+  </body>
+</html>
